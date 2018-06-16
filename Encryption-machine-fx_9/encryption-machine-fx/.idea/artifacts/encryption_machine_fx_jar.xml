@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="encryption-machine-fx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/encryption_machine_fx_jar</output-path>
+    <root id="archive" name="encryption-machine-fx.jar">
+      <element id="module-output" name="encryption-machine-fx" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.2/jsoup-1.11.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
